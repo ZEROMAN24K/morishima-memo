@@ -1,2 +1,2 @@
 # morishima-memo
-This is based on a legendary japanese game called The Silver Case. The program is an imitation of the text editor that the character Tokio Morishima uses in his computer. 
+This text editor is based on something seen within a legendary japanese game called The Silver Case. It's an imitation of the text editor that the character Tokio Morishima uses in his computer. The character uses text files to write down his personal opinions on his findings as he goes down the rabbithole of the Kamui Case. Hence, that part of the editor is aptly named Morishima Memo (Diary.)  
